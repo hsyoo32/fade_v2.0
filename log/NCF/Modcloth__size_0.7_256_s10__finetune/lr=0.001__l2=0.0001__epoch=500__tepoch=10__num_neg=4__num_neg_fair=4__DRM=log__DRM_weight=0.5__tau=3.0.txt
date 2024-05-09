@@ -1,0 +1,608 @@
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:00:01 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:00:07 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:00:45 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:01:08 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:17:40 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:18:46 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:41:16 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:41:54 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:42:27 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:43:02 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:47:42 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:52:17 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:53:21 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:54:29 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:55:50 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:56:59 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 17:59:18 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:01:20 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:02:02 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:03:32 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:06:46 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:09:59 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:29:04 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:29:58 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:30:35 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:31:24 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:37:49 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:39:01 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:39:54 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:40:27 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:41:07 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:41:24 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:43:16 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:44:16 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:45:16 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:47:38 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:48:16 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:49:03 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:51:19 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:52:04 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:52:45 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:56:21 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 18:58:07 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:00:30 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:06:43 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:07:37 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:09:53 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:15:11 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:Modcloth__size_0.7_256_s10__finetune__lr=0.001__l2=0.0001__epoch=500__tepoch=10__num_neg=4__num_neg_fair=4__DRM=log__DRM_weight=0.5__tau=3.0
+INFO:root:--------------------------------------------- BEGIN: 2024-05-08 19:18:41 ---------------------------------------------
+INFO:root:cuda available: True
+INFO:root:cuda device: 1
+INFO:root:Load corpus from ../data/Modcloth/fade/size_0.7_256_s10/Reader.pkl
+INFO:root:Total instances: 83147
+INFO:root:Train instances: 58202
+INFO:root:Test instances: 24945
+INFO:root:Snap boundaries: [58202, 60696, 63190, 65684, 68178, 70672, 73166, 75660, 78154, 80648, 83147]
+INFO:root:#params: 4942732
+INFO:root:Training time stage: 0
+INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Valid]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
+INFO:root:[Test]: Recall: 0.0-0.0-0.0-0.0 NDCG: 0.0-0.0-0.0-0.0 MRR: 0.0-0.0-0.0-0.0 Precision: 0.0-0.0-0.0-0.0
