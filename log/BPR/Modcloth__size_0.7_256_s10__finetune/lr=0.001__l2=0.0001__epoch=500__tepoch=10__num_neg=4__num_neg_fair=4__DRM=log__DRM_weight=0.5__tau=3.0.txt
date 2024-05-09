@@ -621,3 +621,28 @@ NDCG@50	0.0805
 INFO:root:#params: 2441984
 INFO:root:Training time stage: 9
 INFO:root:dyn_method: finetune
+INFO:root:[Valid]: Recall: 0.0509-0.0926-0.183-0.3439 NDCG: 0.0345-0.0467-0.068-0.0975 MRR: 0.0407-0.0446-0.0486-0.0509 Precision: 0.0112-0.0104-0.008-0.007
+INFO:root:[Test]: Recall: 0.0621-0.1294-0.2357-0.3808 NDCG: 0.0396-0.0578-0.0816-0.1088 MRR: 0.0432-0.0489-0.0524-0.0545 Precision: 0.0126-0.0121-0.0089-0.0073
+INFO:root:[Valid]: Recall: 0.05-0.0916-0.1905-0.3544 NDCG: 0.0323-0.0443-0.0676-0.0981 MRR: 0.0372-0.0412-0.0455-0.0478 Precision: 0.0106-0.0099-0.0083-0.0073
+INFO:root:[Test]: Recall: 0.0606-0.1163-0.2398-0.4116 NDCG: 0.0391-0.0549-0.0826-0.1146 MRR: 0.0408-0.0462-0.0506-0.053 Precision: 0.0115-0.011-0.009-0.0077
+INFO:root:End train and valid. Best validation epoch is 005.
+INFO:root:Validation:
+INFO:root:[Valid]: Recall: 0.0509-0.0926-0.183-0.3439 NDCG: 0.0345-0.0467-0.068-0.0975 MRR: 0.0407-0.0446-0.0486-0.0509 Precision: 0.0112-0.0104-0.008-0.007
+INFO:root:Recall@10	0.0509
+NDCG@10	0.0345
+Recall@20	0.0926
+NDCG@20	0.0467
+Recall@50	0.183
+NDCG@50	0.068
+
+INFO:root:Test:
+INFO:root:[Test]: Recall: 0.0621-0.1294-0.2357-0.3808 NDCG: 0.0396-0.0578-0.0816-0.1088 MRR: 0.0432-0.0489-0.0524-0.0545 Precision: 0.0126-0.0121-0.0089-0.0073
+INFO:root:Recall@10	0.0621
+NDCG@10	0.0396
+Recall@20	0.1294
+NDCG@20	0.0578
+Recall@50	0.2357
+NDCG@50	0.0816
+
+INFO:root:
+--------------------------------------------- END: 2024-05-08 19:35:49 ---------------------------------------------
