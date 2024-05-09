@@ -1,6 +1,8 @@
 # FADE
 The repository is the implementation of **Version 2.0** of FADE (FAir Dynamic rEcommender) proposed in the paper titled "Ensuring User-side Fairness in Dynamic Recommender Systems" (WWW'24): https://doi.org/10.1145/3589334.3645536.
 
+**NOTE: For exact replication, one may refer to the original repository: https://github.com/hsyoo32/fade. However, for future works, consider using higher versions for their advantages.**
+
 ## Key update in Version 1.5
 * Flexibly using Dataloader during training with each data block, rather than relying on saved mini-batches on disk.
 
@@ -8,11 +10,15 @@ The repository is the implementation of **Version 2.0** of FADE (FAir Dynamic rE
 * Tests are based on Task-Next.
 * Using GPU-based and All-ranking tests, ensuring consideration of all items in Top-K recommendation tasks.
 * Using a validation set and early stop mechanism. Specifically, the first half of each subsequent data block is used for validation, while the second half is used for testing.
-* **Note:** As a result, the test results may significantly differ from those presented in the paper.
+
+**Note:** As a result, the test results may significantly differ from those presented in the paper.
+
 
 Full arXiv paper (including full Appendix): https://arxiv.org/pdf/2308.15651.
 
 The Online Appendix is available at: https://sites.google.com/view/fade-www24/home.
+
+The offical code DOI: https://doi.org/10.5281/zenodo.10669096.
 
 
 
